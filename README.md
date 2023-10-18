@@ -1,1 +1,2 @@
-Šis ikr mans pirmais GITs... redzēs vai sanāks?
+Šis ir mans pirmais GITs... redzēs vai sanāks?
+Pielieku python failu...
